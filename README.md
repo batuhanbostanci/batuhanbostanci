@@ -2,6 +2,8 @@
 ##Profile informations will be added soon 🐱‍💻
 
 ![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanbostanci)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **batuhanbostanci/batuhanbostanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
