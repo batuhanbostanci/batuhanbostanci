@@ -1,4 +1,6 @@
-### Hi there, I'am Tacettin Batuhan Bostanci! 👋
+
+<h1 align="center">Hi there, I'am Tacettin Batuhan Bostanci! 👋</h1>
+
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/batuubstnc)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/batuhanbstnc/?hl=tr)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/tacettin-batuhan-bostanci-667270172/)
@@ -20,10 +22,10 @@ Insightful computer science student who excels at Java and Python. Will finish m
 ![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
 
 <a href="https://github.com/batuhanbostanci/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanbostanci&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=batuhanbostanci&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
 <a href="https://github.com/batuhanbostanci/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanbostanci&layout=compact&theme=radical&hide_border=false" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanbostanci&layout=compact&theme=radical&hide_border=false" />
 </a>
 
 <!--
