@@ -30,6 +30,10 @@ Insightful computer science student who excels at Java and Python. Will finish m
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanbostanci&layout=compact&theme=radical&hide_border=false" />
 </a>
 
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=batuhanbostanci&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/batuhanbostanci/batuhanbostanci/blob/output/github-contribution-grid-snake.svg" /></div>
+
+
 <!--
 **batuhanbostanci/batuhanbostanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
