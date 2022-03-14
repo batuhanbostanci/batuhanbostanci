@@ -30,9 +30,6 @@ Insightful computer science student who excels at Java and Python. Will finish m
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanbostanci&layout=compact&theme=radical&hide_border=false" />
 </a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <!--
 **batuhanbostanci/batuhanbostanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
