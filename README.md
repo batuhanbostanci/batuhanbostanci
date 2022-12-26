@@ -9,9 +9,10 @@
 
 Insightful computer science student who excels at Java and Python. Will finish my junior year in June. He is a computer science student who has problem-solving skills, loves teamwork and thinks teamwork is more beneficial, tries to learn and spreads what he knows around him, is always dedicated to improving his knowledge of algorithms, and is always determined to learn something.
 
-- 🎯 &nbsp; **I’m currently focusing on**: Data Science technologies and Machine Learning.
+- 🎯 &nbsp; **I’m currently focusing on**: Cyber Security.
 
 - 🔭 &nbsp; **Also, I’m working on**: Datastructure and Algorithms.
+- ⚡ &nbspl **Fun fact, I try to combine everthing with Artificial Intelligence Technologies 
 
 - 📫 &nbsp; **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
