@@ -12,7 +12,6 @@ Insightful computer science student who excels at Java and Python. Will finish m
 - 🎯 &nbsp; **I’m currently focusing on**: Cyber Security.
 
 - 🔭 &nbsp; **Also, I’m working on**: Datastructure and Algorithms.
-- ⚡ &nbspl **Fun fact, I try to combine everthing with Artificial Intelligence Technologies 
 
 - 📫 &nbsp; **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
