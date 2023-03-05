@@ -23,7 +23,10 @@ Insightful computer science student who excels at Java and Python. Will finish m
 
 
 ![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/batuhantbb.png" alt="TryHackMe">
+
+
 <a href="https://github.com/batuhanbostanci/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanbostanci&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
