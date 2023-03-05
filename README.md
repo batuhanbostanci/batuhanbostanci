@@ -21,8 +21,9 @@ Insightful computer science student who excels at Java and Python. Will finish m
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
 
+![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
+<img src="https://tryhackme-badges.s3.amazonaws.com/batuhantbb.png" alt="TryHackMe">
 <a href="https://github.com/batuhanbostanci/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanbostanci&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
