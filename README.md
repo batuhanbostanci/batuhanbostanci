@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'am Tacettin Batuhan Bostanci! 👋</h1>
-<h3>Cyber Security Engineer & Software Developer</h3>
+<h3 align="center">Cyber Security Engineer & Software Developer</h3>
 
 <img src="Teklf.png" alt="me">
 
