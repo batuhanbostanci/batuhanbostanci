@@ -24,7 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=batuhanbostanci&color=red&style=plastic)
 <br/>
 
-<script src="https://tryhackme.com/badge/379199"></script>
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/batuhantbb.png" alt="TryHackMe">
 
 <!--
